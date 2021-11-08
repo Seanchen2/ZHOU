@@ -10,8 +10,11 @@
 ![image](https://user-images.githubusercontent.com/57552670/140698075-8b6d39b9-b6a3-427b-9c75-2db4748ff201.png)
 
 
+
 # 2 迭代次数与优化值
 
+
+![image](https://user-images.githubusercontent.com/57552670/140699353-4bc8e9b8-81f9-47bd-8c12-269d6874d358.png)
 
 ![image](https://user-images.githubusercontent.com/57552670/140698116-62f52a5c-51ed-48a2-8d56-f7af4008ffbc.png)
 ![image](https://user-images.githubusercontent.com/57552670/140698347-66f2a4f3-e04b-447e-93c5-c621f325f344.png)
